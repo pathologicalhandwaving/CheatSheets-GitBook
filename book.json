@@ -1,3 +1,12 @@
 {
-    "plugins": [ "theme-faq" ]
+    "plugins": [ "theme-api" ]
+}
+
+{
+    "plugins": ["theme-api"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "darkblue"
+        }
+    }
 }
